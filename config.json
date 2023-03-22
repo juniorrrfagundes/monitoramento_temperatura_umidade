@@ -1,0 +1,13 @@
+{
+  "config_banco": {
+    "host":"127.0.0.1",
+    "user":"root",
+    "password":"",
+    "database":"bd_sistema_umidade"
+  },
+  "config_servidor": {
+    "servidor": "broker.mqtt-dashboard.com",
+    "topico" : "sensordht22",
+    "cliente": "Script_python"
+  }
+}
